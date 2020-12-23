@@ -1,15 +1,25 @@
 +++
 author = "Will Dearman"
-title = "This is a test"
-date = "2019-03-11"
-slug = "new-test"
+categories = ["ignore"]
+date = 2019-03-11T00:00:00Z
 description = "This is a test because... Hugo"
-tags = [
-    "test",
-    "hugo"
-]
-categories = [
-    "ignore"
-]
+slug = "new-test"
+tags = ["test", "hugo"]
+title = "This is a test"
+
 +++
 This is some content for you
+
+# The start
+
+Now lets get started:
+
+* Quick
+* brown
+* fox
+
+Just kidding
+
+# The rub
+
+Something something something
